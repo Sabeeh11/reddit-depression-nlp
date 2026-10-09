@@ -1,0 +1,5 @@
+data/
+*.part
+run_log.txt
+run_progress.txt
+.ipynb_checkpoints/

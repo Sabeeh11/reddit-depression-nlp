@@ -1,0 +1,46 @@
+topic,weight,share_of_text,top_words,paper_theme
+23,2.181,0.05163511638747219,"feel, want, life, myself, hate, nothing, day, fucking","hostility, rumination / self"
+14,1.655,0.04465841961421019,"feel, myself, life, years, never, help, anxiety, self",rumination / self
+8,0.73,0.027029653387817994,"people, friends, talk, feel, think, say, person, make",loneliness / interpersonal
+34,0.415,0.016667440676984745,"love, time, together, wanted, felt, life, ex, loved",-
+22,0.41,0.01825452871991455,"today, doctor, went, took, started, days, test, day",-
+30,0.322,0.010913022648873167,"want, anyone, feel, sick, way, brain, explain, kinda",-
+33,0.287,0.018399478755748055,"post, help, please, questions, question, sub, sorry, ask",-
+44,0.281,0.01613427098173575,"school, college, year, high, university, student, classes, years",-
+19,0.251,0.019954208230460336,"job, work, time, working, money, months, start, week",-
+6,0.25,0.02204758145620029,"anyone, thanks, guys, looking, hey, wondering, good, experience",-
+2,0.249,0.023909951703291,"said, told, friend, asked, daughter, say, want, friends",loneliness / interpersonal
+20,0.221,0.018529562202885087,"husband, time, hospital, weeks, ago, months, pregnant, baby",-
+27,0.217,0.02231559041599564,"crying, time, baby, night, cry, help, daughter, gets",sadness
+47,0.185,0.01328370785077363,"cut, months, time, slow, feel, long, cutting, bit",-
+31,0.156,0.017632510077402123,"house, home, live, place, living, buy, moving, want",-
+3,0.15,0.010698642591063446,"tell, light, door, told, little, happened, lying, came",-
+46,0.098,0.02106515353035183,"eat, food, eating, protein, day, diet, meal, healthy",-
+9,0.087,0.014536570569780236,"sleep, bed, night, room, sleeping, asleep, wake, hours",-
+11,0.069,0.022284761564915115,"advice, need, help, appreciated, want, time, looking, make",-
+38,0.068,0.025079069895357714,"week, day, days, work, time, workout, hour, times",-
+26,0.058,0.012728282741152369,"work, job, position, raise, salary, hr, company, time",-
+17,0.036,0.014355223250255511,"body, shoulder, arms, upper, right, arm, shoulders, left",-
+29,0.012,0.013178477209272742,"check, number, received, sent, report, letter, send, information",-
+4,-0.002,0.014734616262639567,"use, app, free, online, store, using, youtube, buy",-
+10,-0.04,0.011123912266713144,"potty, training, toilet, time, poop, wear, old, pee",-
+15,-0.067,0.013740456559569021,"insurance, company, new, health, offer, plan, job, current",-
+1,-0.075,0.022216656962158472,"mom, dad, mother, father, daughter, brother, years, family",-
+28,-0.116,0.015488427649527766,"school, kid, daughter, teacher, class, home, kids, year",-
+43,-0.135,0.010375777433485443,"stock, funds, fund, market, value, vanguard, stocks, vs",-
+25,-0.176,0.020272721327316945,"pain, doing, form, injury, sore, legs, feel, time",-
+42,-0.198,0.019041968047613766,"kids, family, parents, children, want, dog, kid, wife",-
+35,-0.259,0.02038450450286691,"account, bank, money, checking, card, accounts, charge, deposit",-
+21,-0.263,0.03185852135369756,"play, time, old, year, playing, games, kid, video",-
+39,-0.295,0.017485668925564385,"tax, taxes, income, year, pay, business, return, file",-
+13,-0.306,0.015283399029978106,"mortgage, loan, house, payment, home, rate, property, sell",-
+45,-0.35,0.01745963886614858,"ups, pull, program, bench, push, day, squat, deadlift",-
+16,-0.465,0.01790740887880772,"child, parents, children, parent, parenting, book, read, books",-
+5,-0.48,0.01711354692161781,"sets, reps, bench, press, chest, set, leg, weight",-
+49,-0.519,0.02994301308397521,"credit, card, debt, score, pay, balance, cards, loan",-
+41,-0.548,0.030083560488561065,"ira, money, roth, account, savings, retirement, year, years",-
+0,-0.714,0.03772696913533809,"gym, want, weight, help, body, start, workout, working",-
+12,-0.8,0.022587941715707653,"running, cardio, training, fitness, run, minutes, doing, heart",-
+24,-0.824,0.03693122169547219,"weight, fat, muscle, calories, body, lbs, gain, lose",-
+48,-0.991,0.03867449771556952,"car, pay, month, loan, money, loans, debt, student",-
+18,-1.092,0.02117428040067004,"son, old, year, baby, boy, wife, little, months",-

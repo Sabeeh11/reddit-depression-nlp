@@ -1,0 +1,5 @@
+result,AUC,sd
+"Part A: post level, topics",0.986,
+"Part B: everyday posts -> later r/depression, topics",0.522,0.044
+"Part B check: same, plain words (TF-IDF)",0.564,0.028
+Paper: Facebook -> medical records,0.69,
